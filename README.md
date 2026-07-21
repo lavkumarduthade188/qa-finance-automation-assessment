@@ -37,13 +37,18 @@ Ensure you have Java JDK 11+ and Maven installed on your machine.
 
 ---
 
-## 📁 Repository Directory Structure
+## Repository Directory Structure
+
+```text
+.
 ├── test-cases/
 │   ├── manual-test-cases.md
 │   └── Manual_Test_Cases.xlsx
 ├── ui-tests/
-│   ├── src/main/java/pages/
-│   └── src/test/java/tests/
+│   └── src/
+│       ├── main/java/pages/
+│       └── src/test/java/tests/
 └── api-tests/
-    ├── src/test/resources/
-    └── src/test/java/tests/
+    └── src/
+        ├── test/resources/
+        └── test/java/tests/
