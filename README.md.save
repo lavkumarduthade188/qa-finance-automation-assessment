@@ -1,0 +1,14 @@
+# QA Automation Assessment — Finance Application Workflows
+
+This repository contains the manual test design, UI page object automation, and decoupled API test framework completed for the QA Engineer take-home assessment.
+
+---
+
+## 📁 Repository Directory Structure
+
+```text
+├── test-cases/
+│   ├── manual-test-cases.md    # Task 1: 7 structured manual test scenarios (Markdown Table)
+│   └── Manual_Test_Cases.xlsx  # Supplementary execution Excel spreadsheet
+├── ui-tests/
+│   ├── src/main/java/pages/    # Task 2: Page
