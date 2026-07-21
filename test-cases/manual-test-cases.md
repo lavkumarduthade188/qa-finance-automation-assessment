@@ -1,10 +1,6 @@
 # Manual Test Cases — OrangeHRM Authentication Workflows
 
-This document outlines the core manual test cases designed to validate the login behaviors, security boundaries, and edge cases for the OrangeHRM portal.
-
 ---
-
-## 🔐 Authentication & Security Test Cases
 
 ### TC_001: [Positive] Successful login with valid admin credentials.
 * **Priority:** High
